@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spkhatri6412
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning java , data structure.
+- 🌱 I’m currently working on Angular and Node.
 
 <!---
 spkhatri6412/spkhatri6412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
